@@ -19,7 +19,7 @@ def main():
 
             else:
                 return "Invalid"
-        else: 
+        else:
             return "Invalid"
     print(plate_checker(plate))
 main()
